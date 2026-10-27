@@ -1,4 +1,4 @@
-# Divya Busaria — Developer Portfolio
+# Divy Abusaria — Developer Portfolio
 
 A responsive, dark-themed student developer portfolio built with plain HTML, CSS, and JavaScript. No build tools or package installation are required.
 
